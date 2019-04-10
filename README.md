@@ -6,7 +6,7 @@ An API for an online store. (An improvement to the 2019 Shopify Developer Challe
 
 ## Introduction
 
-This project is a copy of the 2019 Shopify Developer Challenge. My initial versio of the challenge was not structured optimally, so I decided to redo the challenge with a proper structure. My original repository for the challenge can be found [here](https://github.com/Frank-K/shopify-challenge).
+This project is a copy of the 2019 Shopify Developer Challenge. My initial version of the challenge was not structured optimally, so I decided to redo the challenge with a proper structure. My original repository for the challenge can be found [here](https://github.com/Frank-K/shopify-challenge).
 
 ## Changes
 
