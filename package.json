@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "./node_modules/.bin/eslint ./",
     "fix": "./node_modules/.bin/eslint ./ --fix",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "prod": "./node_modules/pm2/bin/pm2 start index.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,8 @@
     "body-parser": "^1.18.3",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "pm2": "^3.5.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
