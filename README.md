@@ -27,3 +27,7 @@ Here is a list of the changes from my original repository.
 4. Add [nodemon](https://nodemon.io/) as a dev dependency.
 
    Nodemon scans the web server for changes and automatically restarts the web server. This allows for quick development and testing.
+
+5. Add [PM2](http://pm2.keymetrics.io/) to the project
+
+   Added PM2 to the project to better deploy the project to a production environment.
