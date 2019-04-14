@@ -1,6 +1,8 @@
 # Shop-API
 
 [![Build Status](https://travis-ci.com/Frank-K/Shop-API.svg?token=WyhxT6rbCDpnAq8D7kz3&branch=master)](https://travis-ci.com/Frank-K/Shop-API)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 
 An API for an online store. (An improvement to the 2019 Shopify Developer Challenge)
 
